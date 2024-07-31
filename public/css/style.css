@@ -1,0 +1,38 @@
+
+/* *{
+   margin:0 ;
+   padding: 0;
+} */
+ #h{
+    background-color: #adb5bd;
+ }
+ #location{
+    background-color: #adb5bd;
+ }
+ #forecast{
+    background-color: #adb5bd;
+ }
+
+ #latitude{
+    background-color: #adb5bd;
+ }
+
+ #longitude{
+    background-color: #adb5bd;
+ }
+ #form1 {
+    background-color: #495057;
+    padding: 8px 15px;
+ }
+ #form1 input{
+    padding: 6px 5px;
+    outline: none;
+}
+#form1 button{
+    padding: 6px 5px;
+    background-color: #dee2e6;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+  
+ 
